@@ -2,7 +2,7 @@
 This Solidity smart contract represents a basic token named MyToken. It demonstrates fundamental concepts in creating Ethereum smart contracts using the Solidity programming language. The contract includes functionalities for minting and burning tokens, which are common actions in token-based blockchain systems.
 
 # Description
-The MyToken contract showcases the implementation of a basic token using Solidity. The contract defines a custom token named "Becky" with the symbol "BEE". It includes functions to mint new tokens and burn existing ones. Minting increases an address's token balance and the total supply, while burning reduces an address's balance and the overall supply. The contract serves as an educational starting point for understanding token management on the Ethereum blockchain.
+The MyToken contract showcases the implementation of a basic token using Solidity. The contract defines a custom token named "FABIAN" with the symbol "FAB". It includes functions to mint new tokens and burn existing ones. Minting increases an address's token balance and the total supply, while burning reduces an address's balance and the overall supply. The contract serves as an educational starting point for understanding token management on the Ethereum blockchain.
 
 # Getting Started
 Prerequisites
